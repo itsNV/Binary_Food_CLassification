@@ -6,4 +6,4 @@ This project implements a deep learning model for **binary image classification*
 Due to GitHub file size limitations, the **dataset and trained model files are hosted on Kaggle**.
 
 ### 🔗 Kaggle Link
-[Add your Kaggle dataset/model link here]
+https://www.kaggle.com/datasets/nisargpatel2466/binary-food-classification
